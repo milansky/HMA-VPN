@@ -31,7 +31,7 @@ Coming soon
 
 ### Windows version 3 legacy [Screenshot](https://goo.gl/raU1va)
 
-[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/blob/master/HMA_Legacy/Windows/Version%203/hma_pro_vpn_setup_v3.5.exe) for Windows Vista, 7 SP1, 8.1, 10
+[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Windows/Version_2/hma_pro_vpn_setup_v3.5.exe) for Windows Vista, 7 SP1, 8.1, 10
 
 [HMA! Pro VPN v3.4.6.1](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-3.4.6.1-install.exe) for Windows Vista, 7 SP1, 8.1, 10
 
