@@ -3,7 +3,7 @@
 ## Windows (7, 8.1, 10) LATEST VERSION
 [HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/hma_pro_vpn_setup_v3.6.exe)
 
-## Mac ((Mavericks, Yosemite, El Capitan, Sierra) LATEST VERSION
+## Mac (Mavericks, Yosemite, El Capitan, Sierra) LATEST VERSION
 [HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN_v3.5.dmg)
 
 ## Linux CLI Script (OpenVPN)
@@ -13,6 +13,16 @@
 ## Android APK
 
 Coming soon
+
+## Other
+
+### HMA! OpenVPN configuration files
+
+[OpenVPN TCP configuration files.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_TCP.zip)
+
+[OpenVPN UDP configuration files.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_UDP.zip)
+
+IPSEC Configuration files - coming soon
 
 ## Windows legacy clients
 
