@@ -22,7 +22,9 @@ Coming soon
 
 [OpenVPN UDP configuration files.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_UDP.zip)
 
-IPSEC Configuration files - coming soon
+### IPSEC configuration files
+
+Coming soon
 
 ## Windows legacy clients
 
