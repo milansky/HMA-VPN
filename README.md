@@ -6,6 +6,14 @@
 ## Mac ((Mavericks, Yosemite, El Capitan, Sierra) LATEST VERSION
 [HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN_v3.5.dmg)
 
+## Linux CLI Script (OpenVPN)
+
+[HMA! Linux CLI.zip]()
+
+## Android APK
+
+Coming soon
+
 ## Windows legacy clients
 
 ### Windows version 3 legacy [Screenshot](https://goo.gl/raU1va)
@@ -38,3 +46,7 @@
 [HMA! Pro VPN v2.2.7.0](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-2.2.7.0.pkg) for Mac OS X 10.7, 10.8, 10.9, 10.10, 10.11, 10.12
 
 [HMA! Pro VPN v1.1.7](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-1.1.7-install.dmg) for Mac OS X 10.5, 10.6
+
+## Android APK Legacy
+
+[HMA! Pro VPN v2.3.1.120.2](https://github.com/milansky/HMA-VPN/raw/master/hma-vpn-proxy-wifi-security%202.3.1.120.2.apk) for Android 4.0+
