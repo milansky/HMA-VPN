@@ -34,3 +34,7 @@
 [HMA! Pro VPN v3.2.11.0](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-macOS-3.2.11.0.dmg) for Mac OS X 10.9, 10.10, 10.11, 10.12
 
 ### Mac version 2 legacy [Screenshot](https://goo.gl/K52aiv)
+
+[HMA! Pro VPN v2.2.7.0](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-2.2.7.0.pkg) for Mac OS X 10.7, 10.8, 10.9, 10.10, 10.11, 10.12
+
+[HMA! Pro VPN v1.1.7](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-1.1.7-install.dmg) for Mac OS X 10.5, 10.6
