@@ -1,14 +1,14 @@
 # HMA! Pro VPN downloads
 
 ## Windows (7, 8.1, 10) LATEST VERSION
-[HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/hma_pro_vpn_setup_v3.6.exe)
+[HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Windows/hma_pro_vpn_setup_v3.6.exe)
 
 ## Mac (Mavericks, Yosemite, El Capitan, Sierra) LATEST VERSION
-[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN_v3.5.dmg)
+[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Mac/HMA-Pro-VPN_v3.5.dmg)
 
 ## Linux CLI Script (OpenVPN)
 
-[HMA! Linux CLI.zip](https://github.com/milansky/HMA-VPN/raw/master/hma-linux.zip) for Ubuntu, Linux Mint, Debian, CentOS, Kali, Fedora...
+[HMA! Linux CLI.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_Linux/hma-linux.zip) for Ubuntu, Linux Mint, Debian, CentOS, Kali, Fedora...
 
 ## Android APK
 
@@ -19,9 +19,9 @@ Coming soon
 ### HMA! OpenVPN configuration files
 Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, Mac (Tunnelblick) 
 
-[OpenVPN TCP.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_TCP.zip)
+[OpenVPN TCP.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/OpenVPN_Config_files/HMA_OpenVPN_TCP.zip)
 
-[OpenVPN UDP.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_UDP.zip)
+[OpenVPN UDP.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/OpenVPN_Config_files/HMA_OpenVPN_UDP.zip)
 
 ### IPSEC configuration files
 
@@ -31,7 +31,7 @@ Coming soon
 
 ### Windows version 3 legacy [Screenshot](https://goo.gl/raU1va)
 
-[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/hma_pro_vpn_setup_v3.5.exe) for Windows Vista, 7 SP1, 8.1, 10
+[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/blob/master/HMA_Legacy/Windows/Version%203/hma_pro_vpn_setup_v3.5.exe) for Windows Vista, 7 SP1, 8.1, 10
 
 [HMA! Pro VPN v3.4.6.1](https://github.com/milansky/HMA-VPN/raw/master/HMA-Pro-VPN-3.4.6.1-install.exe) for Windows Vista, 7 SP1, 8.1, 10
 
