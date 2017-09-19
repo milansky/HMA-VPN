@@ -8,7 +8,7 @@
 
 ## Linux CLI Script (OpenVPN)
 
-[HMA! Linux CLI.zip]()
+[HMA! Linux CLI.zip](https://github.com/milansky/HMA-VPN/raw/master/hma-linux.zip) for Ubuntu, Linux Mint, Debian, CentOS, Kali, Fedora...
 
 ## Android APK
 
