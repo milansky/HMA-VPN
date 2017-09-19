@@ -17,10 +17,11 @@ Coming soon
 ## Other
 
 ### HMA! OpenVPN configuration files
+Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, Mac (Tunnelblick) 
 
-[OpenVPN TCP configuration files.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_TCP.zip)
+[OpenVPN TCP.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_TCP.zip)
 
-[OpenVPN UDP configuration files.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_UDP.zip)
+[OpenVPN UDP.zip](https://github.com/milansky/HMA-VPN/raw/master/HMA_OpenVPN_UDP.zip)
 
 ### IPSEC configuration files
 
