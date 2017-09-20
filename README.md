@@ -12,7 +12,7 @@
 
 ## Android APK
 
-Coming soon
+[HMA! Pro VPN v3.5.1.1](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/HMA-3.5.1.1.apk)
 
 ## Other
 
