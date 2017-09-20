@@ -1,10 +1,10 @@
 # HMA! Pro VPN downloads
 
 ## Windows (7, 8.1, 10) LATEST VERSION
-[HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Windows/hma_pro_vpn_setup_v3.6.exe)
+[HMA! Pro VPN v3.6.65](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Windows/hma_pro_vpn_setup_v3.6.exe)
 
 ## Mac (Mavericks, Yosemite, El Capitan, Sierra) LATEST VERSION
-[HMA! Pro VPN v3.5](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Mac/HMA-Pro-VPN_v3.5.dmg)
+[HMA! Pro VPN v3.5.8](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Mac/HMA-Pro-VPN_v3.5.dmg)
 
 ## Linux CLI Script (OpenVPN)
 
