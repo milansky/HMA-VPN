@@ -29,7 +29,7 @@ Coming soon
 
 ## Windows legacy clients
 
-### Windows version 3 legacy [Screenshot](https://goo.gl/raU1va)
+### Windows version 3 legacy [Screenshot](https://p6.zdassets.com/hc/theme_assets/287093/200032898/3.7.login.PNG)
 
 [HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Windows/Version_3/hma_pro_vpn_setup_v3.6.exe) for Windows Vista, 7 SP1, 8.1, 10
 
@@ -48,7 +48,7 @@ Coming soon
 
 ## Mac legacy clients
 
-### Mac version 3 legacy [Screenshot](https://goo.gl/raU1va)
+### Mac version 3 legacy [Screenshot](https://p6.zdassets.com/hc/theme_assets/287093/200032898/3.7.login.PNG)
 
 [HMA! Pro VPN v3.5.2](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Mac/Version_3/HMA-Pro-VPN-macOS-3.5.2.dmg) for Mac OS X 10.9, 10.10, 10.11, 10.12
 
