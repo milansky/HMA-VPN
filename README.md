@@ -25,7 +25,7 @@ Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, M
 
 ### IPSEC configuration files
 
-Coming soon
+[IPSec Config Files.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/IPSec_Config_files/shrewsoft-ipsec.zip)
 
 ## Windows legacy clients
 
