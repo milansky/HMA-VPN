@@ -3,7 +3,7 @@
 ## Windows (7, 8.1, 10) LATEST VERSION
 [HMA! Pro VPN v3.8.97](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Windows/hma_pro_vpn_setup3.8.97.exe)
 
-## Mac (Mavericks, Yosemite, El Capitan, Sierra, Hight Sierra) LATEST VERSION
+## Mac (Mavericks, Yosemite, El Capitan, Sierra, High Sierra) LATEST VERSION
 [HMA! Pro VPN v4.0.0](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Mac/HMA-Pro-VPN_4.0.0.dmg)
 
 ## Linux CLI Script (OpenVPN)
