@@ -12,7 +12,7 @@
 
 ## Android APK
 
-[HMA! Pro VPN v4.0.0.1](https://github.com/milansky/HMA-VPN/blob/master/HMA_Latest/Android/app-hma-4.0.0.1.apk)
+[HMA! Pro VPN v4.0.0.1](https://github.com/milansky/HMA-VPN/raw/master/HMA_Latest/Android/app-hma-4.0.0.1.apk)
 
 ## Other
 
@@ -31,7 +31,7 @@ Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, M
 
 ### Windows version 3 legacy [Screenshot](https://p6.zdassets.com/hc/theme_assets/287093/200032898/3.7.login.PNG)
 
-[HMA! Pro VPN v3.7.80](https://github.com/milansky/HMA-VPN/blob/master/HMA_Legacy/Windows/Version_3/hma_pro_vpn_setup3.7.80.exe) for Windows Vista, 7 SP1, 8.1, 10
+[HMA! Pro VPN v3.7.80](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Windows/Version_3/hma_pro_vpn_setup3.7.80.exe) for Windows Vista, 7 SP1, 8.1, 10
 
 [HMA! Pro VPN v3.6](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Windows/Version_3/hma_pro_vpn_setup_v3.6.exe) for Windows Vista, 7 SP1, 8.1, 10
 
