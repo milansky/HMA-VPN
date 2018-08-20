@@ -50,7 +50,13 @@ Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, M
 
 ## Mac legacy clients
 
+### Mac version 4 legacy [Screenshot](https://p6.zdassets.com/hc/theme_assets/287093/200032898/3.7.login.PNG)
+
+[HMA! Pro VPN v4.0.0](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Mac/Version_4/HMA-Pro-VPN_4.0.0.dmg) for Mac OS X 10.9, 10.10, 10.11, 10.12
+
 ### Mac version 3 legacy [Screenshot](https://p6.zdassets.com/hc/theme_assets/287093/200032898/3.7.login.PNG)
+
+[HMA! Pro VPN v3.8.97](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Windows/Version_3/hma_pro_vpn_setup3.8.97.exe) for Mac OS X 10.9, 10.10, 10.11, 10.12
 
 [HMA! Pro VPN v3.5.8](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Mac/Version_3/HMA-Pro-VPN_v3.5.8.dmg) for Mac OS X 10.9, 10.10, 10.11, 10.12
 
@@ -67,6 +73,8 @@ Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, M
 [HMA! Pro VPN v1.1.7](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Mac/Version_2/HMA-Pro-VPN-1.1.7-install.dmg) for Mac OS X 10.5, 10.6
 
 ## Android APK Legacy
+
+[HMA! Pro VPN v4.0.0.1](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Android/app-hma-4.0.0.1.apk)
 
 [HMA! Pro VPN v3.5.1.1](https://github.com/milansky/HMA-VPN/raw/master/HMA_Legacy/Android/HMA-3.5.1.1.apk)
 
