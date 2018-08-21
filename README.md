@@ -23,6 +23,12 @@ Can be used for OpenVPN manual connection with DD-WRT, Tomato, Linux, Windows, M
 
 [OpenVPN UDP.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/OpenVPN_Config_files/HMA_OpenVPN_UDP.zip)
 
+### HMA! OpenVPN configuration files for OpenVPN v2.4 (and newer)
+Since a new version of OpenVPN has been released, we have created a new config files.
+NOTE: If you have OpenVPN v2.3 or older please use the files above
+
+[OpenVPN_2.4.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/OpenVPN2.4/vpn-config-2.4.zip)
+
 ### IPSEC configuration files
 
 [IPSec Config Files.zip](https://github.com/milansky/HMA-VPN/raw/master/Other/IPSec_Config_files/shrewsoft-ipsec.zip)
